@@ -170,30 +170,3 @@ body {
     width: 100%;
     color: black;
 }
-
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 50%;
-    align-items: center;
-}
-
-th {
-    background-color:#B5CB99;
-}
-
-td,
-th {
-    border: 1px solid black;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color:#79AC78;
-}
-.tabel2{
-    border: 1px solid black;
-    background-color:#B5CB99;
-    
-}
